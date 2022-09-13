@@ -1,0 +1,10 @@
+.items-footer, a{
+    text-decoration: none;
+    color: white;
+}
+
+.items-footer, a:hover{
+    text-decoration: none; 
+    color: white;
+}
+
